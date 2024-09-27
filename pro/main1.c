@@ -18,7 +18,7 @@ int main()
     printf("your sexe?");
     scanf("%s",sexe);
 
-    printf ("whats your age age?");
+    printf ("whats your  age?");
     scanf ("%d",&age);
     printf("%s %s %s %s %d\n",name,lastname,email,sexe,age);
 
